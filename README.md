@@ -20,6 +20,7 @@ Most AI systems mix reliable and unreliable sources, which can lead to incorrect
 
 ## Project Status
 Early development stage currently focused on:
+
 • Initially supports one trusted Hadith book  
 • Accurate retrieval  
 • Reference transparency  
